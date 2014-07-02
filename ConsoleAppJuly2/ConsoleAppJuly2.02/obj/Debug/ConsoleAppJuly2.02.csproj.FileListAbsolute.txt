@@ -1,0 +1,6 @@
+C:\Users\Odil Akhmedov\Documents\GitHub\QuizFor07.02\ConsoleAppJuly2\ConsoleAppJuly2.02\bin\Debug\ConsoleAppJuly2.02.exe.config
+C:\Users\Odil Akhmedov\Documents\GitHub\QuizFor07.02\ConsoleAppJuly2\ConsoleAppJuly2.02\bin\Debug\ConsoleAppJuly2.02.exe
+C:\Users\Odil Akhmedov\Documents\GitHub\QuizFor07.02\ConsoleAppJuly2\ConsoleAppJuly2.02\bin\Debug\ConsoleAppJuly2.02.pdb
+C:\Users\Odil Akhmedov\Documents\GitHub\QuizFor07.02\ConsoleAppJuly2\ConsoleAppJuly2.02\obj\Debug\ConsoleAppJuly2.02.csprojResolveAssemblyReference.cache
+C:\Users\Odil Akhmedov\Documents\GitHub\QuizFor07.02\ConsoleAppJuly2\ConsoleAppJuly2.02\obj\Debug\ConsoleAppJuly2.02.exe
+C:\Users\Odil Akhmedov\Documents\GitHub\QuizFor07.02\ConsoleAppJuly2\ConsoleAppJuly2.02\obj\Debug\ConsoleAppJuly2.02.pdb

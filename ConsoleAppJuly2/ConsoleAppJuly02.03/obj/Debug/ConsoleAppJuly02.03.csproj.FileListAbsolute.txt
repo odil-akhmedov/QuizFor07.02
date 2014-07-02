@@ -1,0 +1,5 @@
+C:\Users\Odil Akhmedov\Documents\GitHub\QuizFor07.02\ConsoleAppJuly2\ConsoleAppJuly02.03\bin\Debug\ConsoleAppJuly02.03.exe.config
+C:\Users\Odil Akhmedov\Documents\GitHub\QuizFor07.02\ConsoleAppJuly2\ConsoleAppJuly02.03\bin\Debug\ConsoleAppJuly02.03.exe
+C:\Users\Odil Akhmedov\Documents\GitHub\QuizFor07.02\ConsoleAppJuly2\ConsoleAppJuly02.03\bin\Debug\ConsoleAppJuly02.03.pdb
+C:\Users\Odil Akhmedov\Documents\GitHub\QuizFor07.02\ConsoleAppJuly2\ConsoleAppJuly02.03\obj\Debug\ConsoleAppJuly02.03.exe
+C:\Users\Odil Akhmedov\Documents\GitHub\QuizFor07.02\ConsoleAppJuly2\ConsoleAppJuly02.03\obj\Debug\ConsoleAppJuly02.03.pdb
